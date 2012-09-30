@@ -1,0 +1,12 @@
+{
+  "name": "util",
+  "repo": "jmars/util",
+  "description": "Util Component.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+  	"jmars/events":"*"
+  },
+  "development": {},
+  "scripts":["index.js"]
+}
